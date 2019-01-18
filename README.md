@@ -28,7 +28,7 @@ Please feel free to email Rui Zhang (r.zhang@yale.edu).
 
 ### Neural Networks for IR
 * Neural Networks for Information Retrieval (SIGIR 2017, ECIR 2018, WSDM 2018 Tutorial) [[slides](http://nn4ir.com/wsdm2018/slides/NN4IR.pdf)]
-* Neural Models for Information Retrieval [[video](https://www.youtube.com/watch?v=g1Pgo5yTIKg)][[paper](https://arxiv.org/pdf/1705.01509.pdf)]
+* Neural Models for Information Retrieval [[video](https://www.youtube.com/watch?v=g1Pgo5yTIKg)][[paper](https://arxiv.org/pdf/1705.01509.pdf)][[slides](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/NeuralIR-Nov2017.pdf)]
 * An Introduction to Neural Information Retrieval [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/fntir2018-neuralir-mitra.pdf)]
 * Neural Text Embeddings for Information Retrieval (WSDM 2017) [[slides](https://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017)]
 * Neural Information Retrieval: At the End of the Early Years (Information Retrieval Journal 2018) [[slides](https://link.springer.com/content/pdf/10.1007%2Fs10791-017-9321-y.pdf)]
@@ -109,5 +109,5 @@ Please feel free to email Rui Zhang (r.zhang@yale.edu).
 * An Unsupervised Word Sense Disambiguation System for Under-Resourced Languages (LREC 2018) [[paper](https://arxiv.org/pdf/1804.10686.pdf)]
 
 ## Lists
-* Information Retrieval [[link]https://github.com/brylevkirill/notes/blob/master/Information%20Retrieval.md]
-* Awesome Information Retrieval [[link]https://github.com/harpribot/awesome-information-retrieval]
+* Information Retrieval [[link](https://github.com/brylevkirill/notes/blob/master/Information%20Retrieval.md)]
+* Awesome Information Retrieval [[link](https://github.com/harpribot/awesome-information-retrieval)]
