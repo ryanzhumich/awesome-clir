@@ -15,6 +15,7 @@ Please feel free to email Rui Zhang (r.zhang@yale.edu).
   - [Cross-lingual Learning](#cross-lingual-learning)
   - [Miscellaneous](#miscellaneous)
 - [Datasets](#datasets)
+- [Other Lists](#list)
 
 
 ## Tutorials
@@ -34,6 +35,10 @@ Please feel free to email Rui Zhang (r.zhang@yale.edu).
 * Neural Information Retrieval: A Literature Review [[paper](https://arxiv.org/abs/1611.06792)]
 * Deep Learning for Information Retrieval (SIGIR 2016 Tutorial) [[paper](http://www.hangli-hl.com/uploads/3/4/4/6/34465961/sigir_tutorial.pdf)]
 * Learning to Rank for Information Retrieval and Natural Language Processing [[book](http://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)]
+
+### Other Books
+* Information Retrieval [[book](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199573691.001.0001/oxfordhb-9780199573691-e-022)]
+* Estimating the Query Difficulty for Information Retrieval [[book](http://www.iro.umontreal.ca/~nie/IFT6255/Books/QueryDifficulty.pdf)]
 
 ## Blogs
 * [A survey of cross-lingual word embedding models](http://ruder.io/cross-lingual-embeddings/)
@@ -102,3 +107,7 @@ Please feel free to email Rui Zhang (r.zhang@yale.edu).
 * Low-Resource Semantic Role Labeling (ACL 2014) [[paper](http://www.aclweb.org/anthology/P14-1111)]
 * Universal Neural Machine Translation for Extremely Low Resource Languages (NAACL 2018) [[paper](https://arxiv.org/pdf/1802.05368.pdf)]
 * An Unsupervised Word Sense Disambiguation System for Under-Resourced Languages (LREC 2018) [[paper](https://arxiv.org/pdf/1804.10686.pdf)]
+
+## Lists
+* Information Retrieval [[link]https://github.com/brylevkirill/notes/blob/master/Information%20Retrieval.md]
+* Awesome Information Retrieval [[link]https://github.com/harpribot/awesome-information-retrieval]
